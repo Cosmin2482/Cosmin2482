@@ -25,22 +25,6 @@ Currently a 3rd-year CS student at Universitatea Transilvania din Brașov and a 
 - 🤖 **AI-Accelerated Coding** with ChatGPT, Gemini, Cursor, Bolt & more  
 - 🧠 **Agentic Workflows**: exploring how AI models collaborate and share context  
 - 📊 Learning **Analytics & Machine Learning** (Georgia Tech course)  
-
----
-
-## 💡 Selected Projects
-- ⚽ **Dinamo București Fan Website** (Angular, .NET, MongoDB) → responsive platform with live updates & media.  
-- 🎬 **Movie Database Website** (Angular, .NET) → CRUD, search, modular UI.  
-- 🎟 **Ticket Management System** (JavaScript) → SaaS-style ticket flows & validation.  
-- 🏫 **School DB System** (WPF, .NET, SQL) → student records & reports.  
-- 🎮 **Triviador Multiplayer Game** (C++) → optimized client-server mechanics.  
-- 🐾 **Zoo Simulation** (Unity, C#) → interactive 3D environment.  
-- 🔐 **Home Security Device** (Arduino IoT) → sensor-based prototype.  
-
----
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/cosmin-gavrilă)  
-
+  
 ---
 ✨ *“Always curious, always learning — building the future one commit at a time.”*
