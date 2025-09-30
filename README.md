@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cosmin Gavrilă  
 
-🚀 **Software Engineering Student | Full-Stack Dev | AI-Accelerated Coding Enthusiast**  
+🚀 **Software Engineering Student | Full-Stack Dev | ML & AI-Accelerated Coding Enthusiast**  
 
 I'm passionate about **building scalable web apps** and exploring the **future of AI-assisted development**.  
 Currently a 3rd-year CS student at Universitatea Transilvania din Brașov and a Trimble internship aspirant.  
